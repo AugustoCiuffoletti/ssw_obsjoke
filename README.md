@@ -1,3 +1,3 @@
-# rxjs-fhvtq2
+# rxjs-f1gbdo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-fhvtq2)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-f1gbdo)
